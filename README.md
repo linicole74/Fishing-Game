@@ -1,6 +1,6 @@
 # Fishing-Game
 
-Fishing game that uses cursor.
+Fishing game that uses the cursor.
 
 Select from three types of bait to catch different types of fish, each with their own movement patterns.
 Wait for a fish to be hooked while performing other tasks.
