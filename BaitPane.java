@@ -1,6 +1,4 @@
 /* Nicole Li
- * Period 5 AP CSA
- * April 24, 2020
  * BaitPane.java
  */
 
